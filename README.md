@@ -1,3 +1,15 @@
+<img width="1920" height="1015" alt="{CDA1EB41-EECE-484E-8CD6-A60075A97AF7}" src="https://github.com/user-attachments/assets/9624cee1-189b-4d1d-8a23-6bf673ea2fcd" />
+<img width="1920" height="983" alt="{88D06C1D-EC82-415D-B4A0-19F5BB904DE5}" src="https://github.com/user-attachments/assets/16dcda08-5a63-4141-9704-374f8fdafe2c" />
+<img width="1920" height="941" alt="{2C05FC2D-EAEA-4749-963D-C5CE756D7262}" src="https://github.com/user-attachments/assets/44afff51-fe75-4701-bbb2-aec8c3e5e582" />
+<img width="1916" height="899" alt="{79D06507-CDB0-4B94-A291-2B5123FC2737}" src="https://github.com/user-attachments/assets/d6169fbe-9446-4744-aac7-d672318af93e" />
+<img width="1919" height="1019" alt="{29604A55-EA40-44C3-9FD8-76EF4444DD2D}" src="https://github.com/user-attachments/assets/84077f95-e953-4263-af09-a75b376c5d9b" />
+<img width="1907" height="1012" alt="{56DE966A-32C4-49EE-A3F3-D5C062D802A8}" src="https://github.com/user-attachments/assets/f73a5d5a-5c7d-433f-b40f-5d375bd1a181" />
+<img width="1920" height="1025" alt="{6969921E-E383-4CA1-99E9-3953D95AE1A9}" src="https://github.com/user-attachments/assets/7d188bf6-facb-4431-82ff-c640a1985d73" />
+<img width="1918" height="1010" alt="{54AEE992-FF47-4452-BAD8-AE854044732A}" src="https://github.com/user-attachments/assets/a7f45646-4f2d-4773-bc47-a3302fbeafdc" />
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
